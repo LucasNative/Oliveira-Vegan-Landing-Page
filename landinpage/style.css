@@ -1,0 +1,169 @@
+:root {
+    --background-color: rgb(209, 255, 223);
+    --dark-red: #c22d30;
+}
+
+/* rgb(209, 255, 223); */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    background-color: var( --background-color);
+    font-family: 'Open Sans', sans-serif;
+}
+
+.background {
+    position: absolute;
+    height: 100%;
+    right: 0;
+    bottom: 0;
+    opacity: 0.7;
+}
+
+body {
+    height: 100vh;
+}
+
+.container {
+    display: flex;
+    position: absolute;
+    bottom: 15vh;
+    left: 20vw;
+}
+
+.textinfo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    letter-spacing: 2px;
+    line-height: 30px;
+    font-size: 20px;
+    max-width: 230px;
+}
+
+.textinfo img {
+    height: 350px;
+}
+
+strong {
+    color: var(--dark-red);
+}
+
+.formulario {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    left: 40vw;
+    background-color: var( --background-color);
+    padding: 35px;
+    border-radius: 20px;
+}
+
+.formulario img {
+    margin-bottom: 12px;
+}
+
+h6 {
+    margin: 8px 0;
+    font-family: 'Love Ya Like A Sister', cursive;
+    font-size: 18px;
+    color: #e7676a;
+}
+
+.descricao {
+    margin-bottom: 5px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+form p {
+    opacity: 0.9;
+}
+
+.asterisco {
+    margin: 8px 0px;
+    letter-spacing: 2px;
+    font-size: 13px;
+    opacity: 0.6;
+}
+
+input {
+    font-size: 15px;
+    border: 0;
+    outline: none;
+    padding: 20px;
+    width: 300px;
+    background-color: rgba(255, 255, 255, 0);
+}
+
+label {
+    border: 1px solid rgb(247, 148, 148);
+    border-radius: 10px;
+    width: 350px;
+    margin-top: 10px;
+}
+
+label:hover {
+    transition: 120ms;
+    background-color: rgb(198, 223, 205);
+}
+
+input:hover {
+    transition: 120ms;
+    background-color: rgb(198, 223, 205);
+}
+
+i {
+    margin-right: 2px;
+    color: rgb(100, 100, 100);
+}
+
+button {
+    padding: 15px 23px 15px 23px;
+    border-radius: 10px;
+    margin-top: 15px;
+    background-color: var(--dark-red);
+    border: none;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 800;
+    letter-spacing: 2px;
+    cursor: pointer;
+    border: 1px solid var( --background-color);
+    transition: 200ms ease 110ms;
+}
+
+button:hover {
+    border: 1px solid var(--dark-red);
+    color: var(--dark-red);
+    background-color: var( --background-color);
+}
+
+footer {
+    align-items: center;
+    display: flex;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    left: 45vw;
+}
+
+footer img:hover {
+    opacity: 0.6;
+}
+
+.redes img {
+    padding: 3px;
+    height: 35px;
+    margin: 10px;
+    transition: 200ms ease 0ms;
+}
