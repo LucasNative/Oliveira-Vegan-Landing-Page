@@ -13,4 +13,4 @@
 
 ![olipad(1)](https://user-images.githubusercontent.com/65367775/90990478-3b2f1900-e578-11ea-9479-853f3ea359b2.png)
 
-![oliveiraiphone2](https://user-images.githubusercontent.com/65367775/90990253-4ed98000-e576-11ea-9d93-d60f11a6d7d9.png)
+![oliphone](https://user-images.githubusercontent.com/65367775/90990880-46d00f00-e57b-11ea-8735-ee4788e2c153.png)
