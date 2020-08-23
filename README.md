@@ -11,6 +11,6 @@
 ![OliveiraMacBookPro](https://user-images.githubusercontent.com/65367775/90298086-2e6b4080-de67-11ea-93bf-c38e764b2ca5.png)
 
 
-![olipad](https://user-images.githubusercontent.com/65367775/90990456-f4d9ba00-e577-11ea-8c26-fa7435727b8f.png)
+![olipad(1)](https://user-images.githubusercontent.com/65367775/90990478-3b2f1900-e578-11ea-9479-853f3ea359b2.png)
 
 ![oliveiraiphone2](https://user-images.githubusercontent.com/65367775/90990253-4ed98000-e576-11ea-9d93-d60f11a6d7d9.png)
