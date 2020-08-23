@@ -8,7 +8,7 @@
 
 ### Figma mockup:
 
-![OliveiraMacBookPro](https://user-images.githubusercontent.com/65367775/90298086-2e6b4080-de67-11ea-93bf-c38e764b2ca5.png)
+![olimac](https://user-images.githubusercontent.com/65367775/90991114-2d2fc700-e57d-11ea-9eaa-39798590c897.png)
 
 
 ![olipad(1)](https://user-images.githubusercontent.com/65367775/90990478-3b2f1900-e578-11ea-9479-853f3ea359b2.png)
